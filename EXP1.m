@@ -1,5 +1,5 @@
 clc;
-clear all
+
 Qg=10;
 Qo=2000;
 P=1000;
